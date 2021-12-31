@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="unit_type">Unit Type</string>
+    <string name="first_offer">First Offer (%)</string>
+    <string name="enter_prize">Enter Prize</string>
+    <string name="enter_quantity">Enter Quantity</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="close_imageview_content_desc">close imageview content desc</string>
+    <string name="preview">Preview</string>
+    <string name="loading">---</string>
+    <string name="enter_image_url">Enter Image URL</string>
+    <string name="game_developer">Game Developer</string>
+    <string name="enter_icon_url">Enter Icon URL</string>
+</resources>
